@@ -1,0 +1,6 @@
+boto3
+requests
+json
+bs4
+dask
+dask[dataframe]
